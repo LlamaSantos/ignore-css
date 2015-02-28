@@ -1,0 +1,23 @@
+{
+  "name": "ignore-css",
+  "version": "1.0.0",
+  "description": "Ignore CSS requires server side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LlamaSantos/ignore-css.git"
+  },
+  "keywords": [
+    "require",
+    "css"
+  ],
+  "author": "James R. White",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LlamaSantos/ignore-css/issues"
+  },
+  "homepage": "https://github.com/LlamaSantos/ignore-css"
+}
